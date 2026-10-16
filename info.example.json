@@ -1,0 +1,7 @@
+{
+    "module": "UK1 001",
+    "document_id": "<google-doc-id>",
+    "credentials": "credentials/service_account.json",
+    "current_subject": "Українська мова",
+    "homework_book_url": ""
+}

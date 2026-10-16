@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+credentials/
+info.json
+*.bak*
+# per-lesson working data
+lesson_raw.json
+Text/
+json_data/
+output.html
